@@ -1,2 +1,2 @@
-# jitumoni
-This is a business type website
+# Jitumoni
+This is a My first website
